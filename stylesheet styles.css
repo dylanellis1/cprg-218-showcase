@@ -42,6 +42,12 @@ nav ul li a:hover {
     padding: 50px 20px;
 }
 
+/* Gallery section styling */
+#gallery {
+    text-align: center;
+    padding: 50px 20px;
+}
+
 /* Grid container to display paintings */
 .grid-container {
     display: grid;
@@ -81,6 +87,12 @@ section iframe {
 /* Center the video header text */
 section h2 {
     text-align: center;
+}
+
+/* Contact section styling */
+#contact {
+    text-align: center;
+    padding: 50px 20px;
 }
 
 /* Footer styling */
