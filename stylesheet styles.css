@@ -51,3 +51,43 @@ nav ul li a:hover {
     max-width: 1200px;
     margin: auto;
 }
+
+/* Individual media item styling */
+.media-item {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.media-item:hover {
+    transform: scale(1.05);
+}
+
+.media-item img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+/* Video section styling */
+section iframe {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #2c3e50;
+    color: white;
+    margin-top: 20px;
+}
+
+/* Smooth scrolling effect */
+html {
+    scroll-behavior: smooth;
+}
