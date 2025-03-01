@@ -1,0 +1,17 @@
+/* General styles to give the page an artistic feel */
+body {
+    font-family: 'Atkinson Hyperlegible Next', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f1ea;
+    color: #333;
+    scroll-behavior: smooth;
+}
+
+/* Header styling */
+header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
