@@ -78,6 +78,11 @@ section iframe {
     border-radius: 10px;
 }
 
+/* Center the video header text */
+section h2 {
+    text-align: center;
+}
+
 /* Footer styling */
 footer {
     text-align: center;
